@@ -31,6 +31,9 @@ se creo el sitio web http://intranetmz.tripod.com e una cuenta de free hosting d
 ### 5 Agosto 2006: 
 Se agregaron los barrios y comunas de Manizales al sitio web  https://tinyurl.com/yky2l4gk
 
+### 23 Marzo 2010: 
+Se creo el blog de manizales como un sitio repositorio de contenido y de apoyo a la intranet de Manizales, el blog tiene la posilibidad de usar la infraestructura de google para poder  aumentar la cantidad de contenido sin incrementar costos, y maximizando la encontrabilidad de nuestra link Whell en los buscadores . El blog de Manizales ha sido creado en esta fecha en la siguiente direccion , inaugurandose con una entrada sobre , el parque caldas manizales : http://sobremanizales.blogspot.com/2010/03/una-caminadita-por-el-parque-caldas.html
+
 
 ### 5 febrero 2021 
 Se desarrollo el algoritmo de categorias de sitios turisticos usando tablas y JsGrid
