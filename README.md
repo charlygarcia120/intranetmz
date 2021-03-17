@@ -29,3 +29,7 @@ se creo el sitio web http://intranetmz.tripod.com e una cuenta de free hosting d
 
 ### 13 Marzo 2021: 
 Se integraron reportes graficos a el programa para pronostico estadistico de la loteria de Manizales 
+
+### 16 Marzo 2021: 
+Se actualizaron las consultas sobre los sitios consultas, usando AJAX y JQuery, para cambiar los contenidos del area central dependiendo del sitio turistico que
+el usuario seleccione.
