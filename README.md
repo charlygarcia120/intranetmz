@@ -24,8 +24,16 @@ La intranet de Manizales ha sido desarrollada usando herramientas de software li
 
 ## Bitacora
 
+
 ### 5 Junio 2006: 
 se creo el sitio web http://intranetmz.tripod.com e una cuenta de free hosting de tripod.com y se creo un index.html con la descripcion basica del sitio web
+
+### 5 Agosto 2006: 
+Se agregaron los barrios y comunas de Manizales al sitio web  https://tinyurl.com/yky2l4gk
+
+
+### 5 febrero 2021 
+Se desarrollo el algoritmo de categorias de sitios turisticos usando tablas y JsGrid
 
 ### 13 Marzo 2021: 
 Se integraron reportes graficos a el programa para pronostico estadistico de la loteria de Manizales 
