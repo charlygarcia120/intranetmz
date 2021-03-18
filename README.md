@@ -41,7 +41,7 @@ Se creo el blog de manizales como un sitio repositorio de contenido y de apoyo a
 Se desarrollo el algoritmo de categorias de sitios turisticos usando tablas y JsGrid creando botones que al presionarlos muestran la informacion solicitada en alguna area de la pagina web, mas especificamente en la columna central: https://intranetmz.tripod.com/cgi-bin/intranetmz/sitios_turisticos.cgi
 
 ### 13 Marzo 2021: 
-Se integraron reportes graficos a el programa para pronostico estadistico de la loteria de Manizales 
+Se integraron reportes graficos a el programa para pronostico estadistico de la loteria de Manizales, se trabaja el programa , haciendo analisis estadistico de los ultimos 120 resultados del premio mayor de la loteria de Manizales  https://intranetmz.tripod.com/cgi-bin/intranetmz/pronostico_loteria.cgi
 
 ### 16 Marzo 2021: 
 Se actualizaron las consultas sobre los sitios consultas, usando AJAX y JQuery, para cambiar los contenidos del area central dependiendo del sitio turistico que
