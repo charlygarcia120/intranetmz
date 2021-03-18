@@ -37,6 +37,10 @@ Se creo un programa en PERL para la generacion del sitio web de las comunas de M
 ### 23 Marzo 2010: 
 Se creo el blog de manizales como un sitio repositorio de contenido y de apoyo a la intranet de Manizales, el blog tiene la posilibidad de usar la infraestructura de google para poder  aumentar la cantidad de contenido sin incrementar costos, y maximizando la encontrabilidad de nuestra link Whell en los buscadores . El blog de Manizales ha sido creado en esta fecha en la siguiente direccion , inaugurandose con una entrada sobre , el parque caldas manizales : http://sobremanizales.blogspot.com/2010/03/una-caminadita-por-el-parque-caldas.html
 
+
+### 18 Enero 2021: 
+Se agrega la matriz de sitios turisticos de Manizales usando JQuery en el documento inicial del sitio web: http://intranetmz.tripod.com diferente para cada vez que se carga el documento HTML con enlaces hacia los segmentos interiores del sitio web relativos a cada sitio turistico
+
 ### 5 febrero 2021 
 Se desarrollo el algoritmo de categorias de sitios turisticos usando tablas y JsGrid creando botones que al presionarlos muestran la informacion solicitada en alguna area de la pagina web, mas especificamente en la columna central: https://intranetmz.tripod.com/cgi-bin/intranetmz/sitios_turisticos.cgi
 
