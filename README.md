@@ -38,6 +38,9 @@ Se creo un programa en PERL para la generacion del sitio web de las comunas de M
 Se creo el blog de manizales como un sitio repositorio de contenido y de apoyo a la intranet de Manizales, el blog tiene la posilibidad de usar la infraestructura de google para poder  aumentar la cantidad de contenido sin incrementar costos, y maximizando la encontrabilidad de nuestra link Whell en los buscadores . El blog de Manizales ha sido creado en esta fecha en la siguiente direccion , inaugurandose con una entrada sobre , el parque caldas manizales : http://sobremanizales.blogspot.com/2010/03/una-caminadita-por-el-parque-caldas.html
 
 
+### 23 Marzo 2012: 
+Se implemento el Algoritmo de montoEscrito (https://tulengua.es/numeros-texto/) convertir de numeros a texto para permitir la conversion del precio de los inmuebles agregados por nuestros visitantes y usuarios: ejm (Precio: $75000000= Convierta :setenta y cinco millones de pesos) ejemplo en el sitio web:  https://tinyurl.com/yntwx5du
+
 ### 18 Enero 2021: 
 Se agrega la matriz de sitios turisticos de Manizales usando JQuery en el documento inicial del sitio web: http://intranetmz.tripod.com diferente para cada vez que se carga el documento HTML con enlaces hacia los segmentos interiores del sitio web relativos a cada sitio turistico
 
