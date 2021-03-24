@@ -56,8 +56,11 @@ Se agrega la matriz de sitios turisticos de Manizales usando JQuery en el docume
 Se desarrollo el algoritmo de categorias de sitios turisticos usando tablas y JsGrid creando botones que al presionarlos muestran la informacion solicitada en alguna area de la pagina web, mas especificamente en la columna central: https://intranetmz.tripod.com/cgi-bin/intranetmz/sitios_turisticos.cgi
 
 ### 13 Marzo 2021: 
-Se integraron reportes graficos a el programa para pronostico estadistico de la loteria de Manizales, se trabaja el programa , haciendo analisis estadistico de los ultimos 120 resultados del premio mayor de la loteria de Manizales  https://intranetmz.tripod.com/cgi-bin/intranetmz/pronostico_loteria.cgi
+Se creo un programa para el tratamiento estadistico de los resultados de la loteria de Manizales, y se hace un analisis de las probabilidades con los numeros que menos salen en cada cifra para reocmendar paras , es solo un ejercicio de probabilidad y estadistica aplicado a series de 4 cifras http://intranetmz.tripod.com/cgi-bin/intranetmz/pronostico_loteria.cgi
 
 ### 16 Marzo 2021: 
 Se actualizaron las consultas sobre los sitios consultas, usando AJAX y JQuery, para cambiar los contenidos del area central dependiendo del sitio turistico que
 el usuario seleccione.
+
+### 24 Marzo 2021: 
+Se integraron reportes graficos al programa para pronostico estadistico de la loteria de Manizales, utilizando Charts para las cifras y pasteles para la serie del premio mayor, se hacen los graficos usando Javascript. https://bit.ly/3faPSmj
