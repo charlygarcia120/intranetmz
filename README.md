@@ -40,8 +40,11 @@ Se creo un programa en PERL para la generacion de la publicidad de sitio web de 
 ### 23 Marzo 2010: 
 Se creo el blog de manizales como un sitio repositorio de contenido y de apoyo a la intranet de Manizales, el blog tiene la posilibidad de usar la infraestructura de google para poder  aumentar la cantidad de contenido sin incrementar costos, y maximizando la encontrabilidad de nuestra link Whell en los buscadores . El blog de Manizales ha sido creado en esta fecha en la siguiente direccion , inaugurandose con una entrada sobre , el parque caldas manizales : http://sobremanizales.blogspot.com/2010/03/una-caminadita-por-el-parque-caldas.html
 
+### 1 Junio 2010: 
+Se implemento el Algoritmo de shuffle en PERL para barajar los elementos de los registros a mostrar pero de una manera "barajada" , tanbien es llamado el algoritmo de Fisher Yates  https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle 
 
-### 23 Marzo 2012: 
+
+### 21 Marzo 2012: 
 Se implemento el Algoritmo de montoEscrito (https://tulengua.es/numeros-texto/) convertir de numeros a texto para permitir la conversion del precio de los inmuebles agregados por nuestros visitantes y usuarios: ejm (Precio: $75000000= Convierta :setenta y cinco millones de pesos) ejemplo en el sitio web:  https://tinyurl.com/yntwx5du
 
 
