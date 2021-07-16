@@ -67,3 +67,6 @@ el usuario seleccione.
 
 ### 24 Marzo 2021: 
 Se integraron reportes graficos al programa para pronostico estadistico de la loteria de Manizales, utilizando Charts para las cifras y pasteles para la serie del premio mayor, se hacen los graficos usando Javascript. https://bit.ly/3faPSmj
+
+### 16 Julio 2021: 
+Se hace una mejora al programa de pronostico de loteria de manizales para que solo visualize este pronostico los dias miercoles. Tambien se elimina la opcion de segujimiento de contador de visitas por cuestion de tamaño de los arhcivos planos para cada mes
