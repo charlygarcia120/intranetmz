@@ -70,3 +70,7 @@ Se integraron reportes graficos al programa para pronostico estadistico de la lo
 
 ### 16 Julio 2021: 
 Se hace una mejora al programa de pronostico de loteria de manizales para que solo visualize este pronostico los dias miercoles. Tambien se elimina la opcion de segujimiento de contador de visitas por cuestion de tamaño de los arhcivos planos para cada mes
+
+### 30 Julio 2021: 
+Se cambia el tabbar de la pagina principal se remplaza el componente de dhtmlx por el tabbar jquery UI.
+
