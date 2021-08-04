@@ -74,3 +74,6 @@ Se hace una mejora al programa de pronostico de loteria de manizales para que so
 ### 30 Julio 2021: 
 Se cambia el tabbar de la pagina principal se remplaza el componente de dhtmlx por el tabbar jquery UI.
 
+### 4 Agosto 2021: 
+Se optimizan los archivos CGI para eliminar acceso a datos en archivos planos y que sea mas rapido el sitio web al usar menos archivos de configuracion para los programas CGI. 
+
