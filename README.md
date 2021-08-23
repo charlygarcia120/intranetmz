@@ -44,6 +44,10 @@ Se creo el blog de manizales como un sitio repositorio de contenido y de apoyo a
 Se implemento el Algoritmo de shuffle en PERL para barajar los elementos de los registros a mostrar pero de una manera "barajada" , tanbien es llamado el algoritmo de Fisher Yates  https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle 
 
 
+### 8 Julio 2011: 
+Se creo un programa en PERL para la generacion de puntos con localizaciones  de comunas y barrios de Manizales, busqueda con filtros de esos puntos.
+
+
 ### 21 Marzo 2012: 
 Se implemento el Algoritmo de montoEscrito (https://tulengua.es/numeros-texto/) convertir de numeros a texto para permitir la conversion del precio de los inmuebles agregados por nuestros visitantes y usuarios: ejm (Precio: $75000000= Convierta :setenta y cinco millones de pesos) ejemplo en el sitio web:  https://tinyurl.com/yntwx5du
 
